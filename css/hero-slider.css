@@ -196,7 +196,7 @@ Slider
 }
 @media only screen and (min-width: 1170px) {
   .cd-hero-slider {
-    height: 680px;
+    height: 82vh;
   }
 }
 
@@ -228,7 +228,7 @@ Single slide style
   left: 0;
   top: 0;
   /* this padding is used to align the text */
-  padding-top: 80px;
+  padding-top: 100px;
   text-align: center;
   /* Force Hardware Acceleration in WebKit */
   -webkit-backface-visibility: hidden;
